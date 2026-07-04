@@ -72,19 +72,19 @@ A machine learning notebook using the **MNIST handwritten digits dataset** (fetc
 
 ## Summary Table
 
-| # | Notebook | Topic | Status |
+| # | Notebook | Topic |
 |---|---|---|---|
-| 1 | 1.ipynb – 4.ipynb | Lab Exercise 1 — Python basics (tuples, loops, input handling) | Complete |
-| 2 | Test.ipynb | Misc scratch/test code | Complete |
-| 3 | assisment1.ipynb | NumPy indexing | Complete |
-| 4 | LabExercise-2.ipynb | NumPy lab exercises | Complete |
-| 5 | demo.ipynb / numpy.ipynb | NumPy fundamentals | Complete |
-| 6 | pandas.ipynb | Pandas basics | Complete |
-| 7 | Exercise_3.ipynb | Pandas exercise sheet | Complete |
-| 8 | MATPLOTLIB.ipynb | Matplotlib demo | Complete |
-| 9 | Exercise_4.ipynb | Matplotlib exercise sheet | Complete |
-| 10 | iris_dataset.ipynb | Iris dataset exploration | Complete |
-| 11 | SKlearn.ipynb | scikit-learn / regression workflow | Complete |
-| 12 | DecisionTree.ipynb | Iris + Decision Tree classifier | Complete |
-| 13 | RandomForest.ipynb | Random Forest (planned) | Empty |
-| 14 | MNIST.ipynb | MNIST binary classifier | Complete |
+| 1 | 1.ipynb – 4.ipynb | Lab Exercise 1 — Python basics (tuples, loops, input handling) |
+| 2 | Test.ipynb | Misc scratch/test code |
+| 3 | assisment1.ipynb | NumPy indexing |
+| 4 | LabExercise-2.ipynb | NumPy lab exercises |
+| 5 | demo.ipynb / numpy.ipynb | NumPy fundamentals |
+| 6 | pandas.ipynb | Pandas basics |
+| 7 | Exercise_3.ipynb | Pandas exercise sheet |
+| 8 | MATPLOTLIB.ipynb | Matplotlib demo |
+| 9 | Exercise_4.ipynb | Matplotlib exercise sheet |
+| 10 | iris_dataset.ipynb | Iris dataset exploration |
+| 11 | SKlearn.ipynb | scikit-learn / regression workflow |
+| 12 | DecisionTree.ipynb | Iris + Decision Tree classifier |
+| 13 | RandomForest.ipynb | Random Forest |
+| 14 | MNIST.ipynb | MNIST binary classifier |
