@@ -1,4 +1,4 @@
-# Project Notebooks — ML(Machine Learning)
+# Project Notebooks — ML (Machine Learning)
 
 This document describes every `.ipynb` notebook in the project folder, organized in a logical learning sequence — from basic Python, through NumPy/Pandas/Matplotlib fundamentals, to machine learning with scikit-learn.
 
@@ -63,7 +63,7 @@ A large scikit-learn practice notebook. Loads `data2.xlsx` with pandas, then exp
 Loads the Iris dataset (from CSV via `sklearn.datasets` and `pandas`), performs data visualization (title: "Data Visualization"), and builds a **Decision Tree classifier** using `sklearn.model_selection.train_test_split` and related scikit-learn tools.
 
 #### RandomForest.ipynb
-Currently an empty notebook (single blank code cell) — likely intended as a follow-up to `DecisionTree.ipynb` for building a Random Forest model, but not yet started.
+A follow-up to `DecisionTree.ipynb`: trains a `RandomForestClassifier` on the Iris dataset, compares it against a baseline Decision Tree, and includes a confusion matrix, feature importance ranking, a visualization of one tree from the forest, and hyperparameter tuning with `GridSearchCV`.
 
 #### MNIST.ipynb
 A machine learning notebook using the **MNIST handwritten digits dataset** (fetched via `sklearn.datasets.fetch_openml`). Covers exploring the dataset, building a **binary classifier**, and evaluating it with a **confusion matrix** and other classification metrics.
@@ -73,7 +73,7 @@ A machine learning notebook using the **MNIST handwritten digits dataset** (fetc
 ## Summary Table
 
 | # | Notebook | Topic |
-|---|---|---|---|
+|---|---|---|
 | 1 | 1.ipynb – 4.ipynb | Lab Exercise 1 — Python basics (tuples, loops, input handling) |
 | 2 | Test.ipynb | Misc scratch/test code |
 | 3 | assisment1.ipynb | NumPy indexing |
@@ -86,5 +86,5 @@ A machine learning notebook using the **MNIST handwritten digits dataset** (fetc
 | 10 | iris_dataset.ipynb | Iris dataset exploration |
 | 11 | SKlearn.ipynb | scikit-learn / regression workflow |
 | 12 | DecisionTree.ipynb | Iris + Decision Tree classifier |
-| 13 | RandomForest.ipynb | Random Forest |
+| 13 | RandomForest.ipynb | Random Forest classifier (with GridSearchCV tuning) |
 | 14 | MNIST.ipynb | MNIST binary classifier |
